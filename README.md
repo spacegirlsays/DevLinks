@@ -4,7 +4,7 @@ Olá! ✨
 Este é o projeto 'DevLinks' do curso 'Discover' da Rocketseat.
 Serve como base para o aprendizado de HTML, CSS e Javascript.
 
-Enjoy!
+
 ---
 
 ---
